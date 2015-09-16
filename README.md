@@ -1,6 +1,6 @@
 # _Pig Latin Translator (JavaScript)_
 
-##### _Create an app...._
+##### _Create an app that allows you to translate messages into Pig Latin_
 
 #### By _Leslie Poole_
 
@@ -8,6 +8,7 @@
 
 ## Setup
 
+* Clone this git repository on your computer.
 * Open the pig-latin.html file in your browser(Chrome) to run the program.
 
 ## Technologies Used
