@@ -1,9 +1,9 @@
-describe('startsWithVowel', function() {
+describe('translator', function() {
   it("adds ay to the end of a word that starts with a vowel", function() {
-    expect(startsWithVowel("eat")).to.equal("eatay");
+    expect(translator("eat")).to.equal("eatay");
   });
 
   it("takes the consonant at the beginning of a word and moves it to the end", function() {
-    expect(startsWithVowel("car")).to.equal("arcay");
+    expect(translator("car")).to.equal("arcay");
   });
 });
